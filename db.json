@@ -13,8 +13,8 @@
       "name": "Naruto Ramen",
       "restaurant": "Naruto",
       "image": "./assets/ramen/naruto.jpg",
-      "rating": 10,
-      "comment": "My absolute fave!"
+      "rating": "10",
+      "comment": "Perfection."
     },
     {
       "id": 3,
@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Soupy Soup",
+      "restaurant": "The Ramen Place",
+      "image": "https://thecozycook.com/wp-content/uploads/2023/02/Homemade-Ramen-f.jpg",
+      "rating": "9",
+      "comment": "WOW SO GOOD!!",
+      "id": 6
     }
   ]
 }
